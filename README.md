@@ -6,5 +6,6 @@ The goal of this assignment is to practice implementing various classification a
 
 Dataset:
 
-For this assignment, we will use the "Pima Indians Diabetes Database" dataset from Kaggle 
+For this Assignment, we will use the "Pima Indians Diabetes Database" dataset from Kaggle 
+
 (https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
